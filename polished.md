@@ -27,7 +27,7 @@ style: |
 
 - **Presenters:**
     - Shuky Meyer — Principal Software Engineer
-    - Divya Moorjany — Principal Machine Learning Engineer
+    - Divya Moorjaney — Principal Machine Learning Engineer
 - **Goal:**
     - Maximize efficiency and skills using GitHub Copilot through a deep dive into prompt engineering and advanced techniques. This demo will showcase how to leverage Copilot for more sophisticated and effective coding assistance.
 - **Resources:**
@@ -55,7 +55,7 @@ style: |
 
 - **Presenters:**
   - Shuky – Principal Software Engineer with a lengthy background in HCI / Big Data.
-  - Divya – Principal Machine Learning Engineer, <span class="important">bio?</span>
+  - Divya – Principal Machine Learning Engineer, with a background in machine learning and AI.
 - **Overview:** Deep dive and become a power user with GitHub Copilot.
 
 ---
