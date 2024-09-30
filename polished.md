@@ -56,6 +56,7 @@ style: |
 - **Presenters:**
   - Shuky – Principal Software Engineer with a lengthy background in HCI / Big Data.
   - Divya – Principal Machine Learning Engineer, with a background in machine learning and AI.
+
 - **Overview:** Deep dive and become a power user with GitHub Copilot.
 
 ---
